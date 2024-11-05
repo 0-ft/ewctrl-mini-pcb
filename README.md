@@ -1,2 +1,2 @@
 # ewctrl-mini-pcb
-PCB design files for ewctrl mini 8 way DC PWM controller
+See [blog post](http://frdy.tw/notes/ewctrl-mini)
